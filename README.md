@@ -1,6 +1,6 @@
 # AdminPro - Backend
 
-Recuerden ejecutar 
+Just run
 
 ```
 npm install
